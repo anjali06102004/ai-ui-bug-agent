@@ -281,6 +281,6 @@ The long-term goal is an AI testing agent that can **observe, reason, interact, 
 This project is currently under active development. Ideas, issues, and improvements are welcome.
 
 ## 📄 License
-This project is licensed under the [Anjali Kumari](2026).
+This project is licensed under the [MIT License](LICENSE).
 
 Copyright (c) 2026 Anjali Kumari
