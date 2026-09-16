@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.env
+screenshots/
+exploration-results.json
+*.log
+readme.md
